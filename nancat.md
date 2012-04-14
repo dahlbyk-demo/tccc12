@@ -14,4 +14,4 @@ o        o         o      o     +
 +      +     o        o      +  
 
 
-![Output sample](https://github.com/coderow-mark/tccc12/poptart_cat.gif)
+![Output sample](https://github.com/coderow-mark/tccc12/blob/master/poptart_cat.gif)
