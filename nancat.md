@@ -1,3 +1,4 @@
+<pre>
 +      o     +              o   
     +             o     +       +
 o          +
@@ -13,5 +14,5 @@ o        o         o      o     +
     o           +
 +      +     o        o      +  
 
-
-![Output sample](https://github.com/coderow-mark/tccc12/blob/master/poptart_cat.gif)
+</pre>
+![Output sample](https://github.com/coderow-mark/tccc12/raw/master/poptart_cat.gif)
